@@ -34,6 +34,7 @@ There is support for the following device families within Home Assistant:
 - **Amazon Echo Dot**
 - **Amazon Echo Flex**
 - **Amazon Echo Plus**
+- **Amazon Echo Pop**
 - **Amazon Echo Show**
 - **Amazon Fire TV Stick**
 - **Amazon Fire Tablet**
